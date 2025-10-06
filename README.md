@@ -63,7 +63,7 @@ I work with both front-end and back-end technologies, and I’m always looking f
 
 ### 🛠 Languages & Tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohfolster&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofolster&layout=compact&theme=radical)
 
 ---
 
