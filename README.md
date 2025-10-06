@@ -13,9 +13,9 @@
 
 ---
 
-I'm currently working as Technical Support at Seventh. I am in my 4th semester of Systems Analysis and Development (ADS), with only one semester left to complete the course. 
+I’m currently working as a Full Stack Developer at Tributo Devido. I have a degree in Systems Analysis and Development, and I have experience with Python, Java, Spring, Django, and React.
 
-I'm actively seeking opportunities as a developer, and I currently work on private projects and as a freelancer. My experience ranges from providing technical support to developing software solutions, making me well-rounded in both hands-on technical skills and problem-solving.
+I work with both front-end and back-end technologies, and I’m always looking for new challenges and opportunities to grow.
 
 ---
 
@@ -23,10 +23,10 @@ I'm actively seeking opportunities as a developer, and I currently work on priva
 
 <h1 align="center">📚 About Me</h1>
 
-🎓 Education: Currently in the last semester of Software Analysis and Development at SENAC Florianópolis<br>
-💼 Currently working as: Technical Support - Seventh<br>
+🎓 Education: Graduated in Software Analysis and Development from SENAC Florianópolis.<br>
+💼 Currently working as: FullStack - Tributo Devido<br>
 🌱 Learning: Mobile Development / Embedded Systems<br>
-💬 Ask me about: Java, Spring, and React<br>
+💬 Ask me about: Java, Spring, Python, Django and React<br>
 ⏰ How I spend my time: Playing games with friends<br>
 🧠 A quote I live by: "The period of greatest gain in knowledge and experience is the most difficult period in one’s life..."
 
