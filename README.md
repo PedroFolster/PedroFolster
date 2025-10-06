@@ -36,6 +36,8 @@ I work with both front-end and back-end technologies, and I’m always looking f
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
@@ -54,19 +56,6 @@ I work with both front-end and back-end technologies, and I’m always looking f
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
-
-### 📊 GitHub Statistics
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrofolster&show_icons=true&count_private=true&theme=radical)
-
----
-
-### 🛠 Languages & Tools
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofolster&layout=compact&theme=radical)
-
----
-
 
 <h1 align="center">Where to find me</h1>
 
