@@ -57,7 +57,7 @@ I work with both front-end and back-end technologies, and I’m always looking f
 
 ### 📊 GitHub Statistics
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrohfolster&show_icons=true&count_private=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrofolster&show_icons=true&count_private=true&theme=radical)
 
 ---
 
